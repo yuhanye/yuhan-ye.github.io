@@ -22,6 +22,6 @@ Presented at AFA 2026 (Poster, scheduled), SFI Academic Job Market Workshop (sch
 
 ---
 
-📫 [Email](mailto:yuhan.ye@usi.ch) │ [LinkedIn](https://www.linkedin.com/in/yuhan-ye77/) │ [SFI Profile](https://www.sfi.ch/en/people/yuhan-ye) │ [USI Profile](https://search.usi.ch/en/people/12fe19968bc63b6bdbe84d3eea7a5a4c/ye-yuhan)
+📫 [yuhan.ye@usi.ch](mailto:yuhan.ye@usi.ch) │ [LinkedIn](https://www.linkedin.com/in/yuhan-ye77/) │ [SFI Profile](https://www.sfi.ch/en/people/yuhan-ye) │ [USI Profile](https://search.usi.ch/en/people/12fe19968bc63b6bdbe84d3eea7a5a4c/ye-yuhan)
 
 
