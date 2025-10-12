@@ -32,8 +32,7 @@ This paper investigates whether better information favors humans or machines. Us
 
 <br>
 
-- **Presented at:**  
-  AFA 2026 (Poster, scheduled), SFI Academic Job Market Workshop (scheduled),  USI IFin Brown Bag (scheduled), CREDIT Venice 2025, HEC PhD Workshop, 2nd HKUST IAS–SBM Joint Workshop (Poster), PhD Summer School on Finance and Product Markets, UZH Rising Scholars Conference, and SFI Research Days.
+**Presented at:**  AFA 2026 (Poster, scheduled), SFI Academic Job Market Workshop (scheduled),  USI IFin Brown Bag (scheduled), CREDIT Venice 2025, HEC PhD Workshop, 2nd HKUST IAS–SBM Joint Workshop (Poster), PhD Summer School on Finance and Product Markets, UZH Rising Scholars Conference, and SFI Research Days.
 
 
 ---
