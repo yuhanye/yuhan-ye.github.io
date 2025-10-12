@@ -14,7 +14,7 @@ Ph.D. Candidate in Finance, Swiss Finance Institute (SFI) & Università della Sv
 - Machine Learning in Finance  
 - Human vs. Machine Decision Making
 
-**Contact:** [yuhan.ye@usi.ch](mailto:yuhan.ye@usi.ch) │ [LinkedIn](https://www.linkedin.com/in/yuhan-ye77/) │ [SFI Profile](https://www.sfi.ch/en/people/yuhan-ye) │ [USI Profile](https://search.usi.ch/en/people/12fe19968bc63b6bdbe84d3eea7a5a4c/ye-yuhan)
+**Contact:** [yuhan.ye@usi.ch](mailto:yuhan.ye@usi.ch) 
 
 
 ---
