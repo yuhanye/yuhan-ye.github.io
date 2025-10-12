@@ -3,5 +3,5 @@ description: "<span style='font-size:90%;'><a href='https://www.linkedin.com/in/
 theme: jekyll-theme-minimal
 logo: /assets/profile.JPG
 show_downloads: false
-github:
+github: 
   is_project_page: false
