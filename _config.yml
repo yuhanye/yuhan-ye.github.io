@@ -1,4 +1,5 @@
-title: "Yuhan Ye <span style='font-size:90%;'>(叶禹含)</span>"
+title: "<span style='white-space: nowrap;'>Yuhan Ye <span style='font-size:90%;'>(叶禹含)</span></span>"
+
 
 theme: jekyll-theme-minimal
 logo: /assets/profile.JPG   # 可选头像路径
