@@ -14,8 +14,10 @@ Ph.D. Candidate in Finance, Swiss Finance Institute (SFI) & Università della Sv
 - Machine Learning in Finance  
 - Human vs. Machine Decision Making
 
----
+**Contact:** [yuhan.ye@usi.ch](mailto:yuhan.ye@usi.ch) │ [LinkedIn](https://www.linkedin.com/in/yuhan-ye77/) │ [SFI Profile](https://www.sfi.ch/en/people/yuhan-ye) │ [USI Profile](https://search.usi.ch/en/people/12fe19968bc63b6bdbe84d3eea7a5a4c/ye-yuhan)
 
+
+---
 ## Job Market Paper
 ### *Does Better Information Favor Humans or Machines? Evidence from Global Earnings Forecasts*
 
@@ -25,6 +27,6 @@ Presented at AFA 2026 (Poster, scheduled), SFI Academic Job Market Workshop (sch
 
 ---
 
-**Contact:** [yuhan.ye@usi.ch](mailto:yuhan.ye@usi.ch) │ [LinkedIn](https://www.linkedin.com/in/yuhan-ye77/) │ [SFI Profile](https://www.sfi.ch/en/people/yuhan-ye) │ [USI Profile](https://search.usi.ch/en/people/12fe19968bc63b6bdbe84d3eea7a5a4c/ye-yuhan)
+
 
 
