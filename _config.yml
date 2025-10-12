@@ -1,8 +1,7 @@
 title: "<span style='white-space: nowrap;'>Yuhan Ye <span style='font-size:90%;'>(叶禹含)</span></span>"
-│ [LinkedIn](https://www.linkedin.com/in/yuhan-ye77/) │ [SFI Profile](https://www.sfi.ch/en/people/yuhan-ye) │ [USI Profile](https://search.usi.ch/en/people/12fe19968bc63b6bdbe84d3eea7a5a4c/ye-yuhan)
-
+description: "<a href='mailto:yuhan.ye@usi.ch'>📫 yuhan.ye@usi.ch</a> │ <a href='https://www.linkedin.com/in/yuhan-ye77/'>LinkedIn</a> │ <a href='https://www.sfi.ch/en/people/yuhan-ye'>SFI Profile</a> │ <a href='https://search.usi.ch/en/people/12fe19968bc63b6bdbe84d3eea7a5a4c/ye-yuhan'>USI Profile</a>"
 theme: jekyll-theme-minimal
-logo: /assets/profile.JPG   # 可选头像路径
+logo: /assets/profile.JPG
 show_downloads: false
 github:
   is_project_page: false
