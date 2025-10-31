@@ -23,7 +23,6 @@ Ph.D. Candidate in Finance, Swiss Finance Institute (SFI) & Università della Sv
 
 This paper investigates whether better information environments favor humans or machines by shaping the relative forecasting performance of analysts and algorithms across 47 global stock markets from 1985 to 2024 with 53 million detailed forecasts.
 
-</details>
 
 <br>
 
